@@ -11,7 +11,7 @@ namespace backend
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         { }
-        
+
         public DbSet<Comment> Comments { get; set; }
     }
 }
