@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/valtterimyllyla/Documents/projects/gittest/backend/backend.csproj",
+      "projectUniqueName": "/Users/valtterimyllyla/Documents/projects/gittest/commentsRestAPI/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/Users/valtterimyllyla/Documents/projects/gittest/backend/backend.csproj",
+      "projectPath": "/Users/valtterimyllyla/Documents/projects/gittest/commentsRestAPI/backend.csproj",
       "packagesPath": "/Users/valtterimyllyla/.nuget/packages/",
-      "outputPath": "/Users/valtterimyllyla/Documents/projects/gittest/backend/obj/",
+      "outputPath": "/Users/valtterimyllyla/Documents/projects/gittest/commentsRestAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
